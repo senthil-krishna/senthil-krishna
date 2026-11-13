@@ -32,11 +32,11 @@ I enjoy exploring datasets, developing predictive models, and creating projects 
 | Project | Description | Technologies |
 |---|---|---|
 | [RetailIQ Copilot](https://github.com/senthilkrishna9344-tech/RetailIQ-Copilot) | AI-powered retail sales and inventory assistant | Python |
-| Car Price Prediction | Predicting car prices using machine learning | Python, Scikit-learn |
-| HR Analytics | Employee attrition and workforce analytics dashboard | Power BI |
-| Traffic Analysis | Website traffic analysis and visualization | Power BI |
-| Unemployment Analysis | Exploring unemployment trends and COVID-19 impact | Python, Pandas |
-| Bank Loan Analysis | Loan performance and financial insights dashboard | Power BI |
+| [Car Price Prediction](https://github.com/senthil-krishna/car_priceprediction) | Predicting car prices using machine learning | Python, Scikit-learn |
+| [HR Analytics](https://github.com/senthil-krishna/HR_analytics) | Employee attrition and workforce analytics dashboard | Power BI |
+| [Traffic Analysis](https://github.com/senthil-krishna/Traffic_analysis) | Website traffic analysis and visualization | Power BI |
+| [Unemployment Analysis](https://github.com/senthil-krishna/Unemployment_analysis) | Exploring unemployment trends and COVID-19 impact | Python, Pandas |
+| [Bank Loan Analysis](https://github.com/senthil-krishna/Bank-Loan-Analysis-Dashboard) | Loan performance and financial insights dashboard | Power BI |
 
 ---
 
